@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background-image: url("weather.webp");
+    background-image: url(/weather.png);
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0;
